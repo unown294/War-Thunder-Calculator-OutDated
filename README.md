@@ -7,7 +7,7 @@ you can use some of the functions that are included. Some are going to be replac
 Known bugs:
 
 Function 1
-  -fixing the max aircraft you can put into the function as we speak and will be re-uploaded once it has been fixed
+  - fixing the max aircraft you can put into the function as we speak and will be re-uploaded once it has been fixed
 
 Function 4
   - Havent made it print the options so dont uses as were working on finishing the last function that is more simplified and

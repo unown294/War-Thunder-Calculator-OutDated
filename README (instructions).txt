@@ -27,23 +27,13 @@ Instructions on how to start the calculator:
 	Function 6: (Gives the cheapest ammount in Golden Eagles to purchase 'X' amount of lions)
 	Function 7: (Gives the cheapest ammount in dollars to purchase 'X' amount of eagles)
 
-5. Leave suggestions on what functions you want to see next
+5. Leave suggestions on what functions you want to see next.
+6. Have fun finding my easter egg
 
 
 
 Known bugs:
 
-
-Function 1
-  
-- Fixing the max aircraft you can put into the function as we speak and will be re-uploaded once it has been fixed
-
-
-
-Function 4
-  
-- Havent made it print the options so dont uses as were working on finishing the last function that is more simplified and
- better for the users
 
 
 

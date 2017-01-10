@@ -12,20 +12,19 @@ Some are going to be replaced but as of now this is the working version.
 Instructions on how to start the calculator:
 
 1. Make sure a version of Java is installed on your computer. If not use this link (https://java.com/en/download/manual.jsp)
-
-2. Download these files and make sure there in the same place (like in the same file so they work normally)
+. Download the version that suites you 32-bit or 64-bit. If one doesnt work then use the other.
+2. Download these files and make sure there in the same place (like in the same file so they work normally other wise the next instruction will not work properly. BEST OPTION: Keep files in the download zip file to prevent issues with running the program)
 
 3. Use the "start.cmd" file to run the calculator in a viewable interface
 
-4. Function descriptions (follow the prompts for each function to use the calculator correctly)
+4. Function descriptions (Follow the prompts for each function to use the calculator correctly)
 
-	Function 1: (converts the ammount of research you entered into an ammount of Golden Eagles)
-	Function 2: (if your looking for what pack to buy for lions, for exact ammounts needed use fucntion 6)
-	Function 3: (gives you the exact price in Golden Eagles, that your said ammount of days will cost you. Use function 7 to convert the Golden Eagles into dollars)
-	Function 4: (give you an estimate for how long it will take to grind a said amount of research)
-	Function 5: (see's if you have enough in your account to buy vehicles)
-	Function 6: (Gives the cheapest ammount in Golden Eagles to purchase 'X' amount of lions)
-	Function 7: (Gives the cheapest ammount in dollars to purchase 'X' amount of eagles)
+	Function 1: (converts the ammount of research you entered into an ammount of Golden Eagles,  now includes an option to convert the Golden Eagles dirrecly to dollars)
+	Function 2: (gives you the exact price in Golden Eagles, that your said ammount of days will cost you, now includes an option to convert the Golden Eagles dirrecly to dollars)
+	Function 3: (give you an estimate for how long it will take to grind a said amount of research, now includes an option to convert the Golden Eagles dirrecly to dollars)
+	Function 4: (see's if you have enough in your account to buy vehicles)
+	Function 5: (Gives the cheapest ammount in Golden Eagles to purchase 'X' amount of lions, now includes an option to convert the Golden Eagles dirrecly to dollars)
+	Function 6: (Gives the cheapest ammount in dollars to purchase 'X' amount of eagles)
 
 5. Leave suggestions on what functions you want to see next.
 6. Have fun finding my easter egg
@@ -36,10 +35,5 @@ Known bugs:
 
 
 
-
-Function 8
-  
-- The following has been having issues with large ammounts of golden eagle pricing. Me and my friend are still trying to sort
- out why this issue is occuring. 
-  May be a simple fix but will post an update ASAP when we fix it. Regardless it works with
- numbers lower than 10,000
+- Functions that use numbers are prone to crash if you enter a Letter instead of a number. The only exception to this is the main dirrectory which is the point you select the function you seek to use. 
+  only solution is use numbers within the functions to prevent crashes untill I implement a catch to this bug.

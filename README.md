@@ -1,6 +1,6 @@
-# Official-War-Thunder-Calculator
+# War-Thunder-Calculator
 This calculator can calculate multiple functions that are built into program. This program is subject to change as more functions get added and edited.
-# Official-War-Thunder-Calculator
+# War-Thunder-Calculator
 
 This calculator can calculate multiple functions that are built into program. This program is subject to change as more functions get added and edited.
 
